@@ -15,7 +15,9 @@
 - type: clash
   options:
     url: https://bihai.cf/clash/proxies
-# clash格式订阅链接
 - type: clash
   options:
     url: https://proxy.moneyfly.club/clash/proxies
+- type: clash
+  options:
+    url: https://proxypoolss.tk/clash/proxies
