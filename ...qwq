@@ -24,3 +24,18 @@
 - type: clash
   options:
     url: https://proxypoolss.tk/clash/proxies
+- type: clash
+  options:
+    url: https://sspool.herokuapp.com/clash/proxies
+- type: clash
+  options:
+    url: https://proxypoolsstest.herokuapp.com/clash/proxies
+- type: clash
+  options:
+    url: https://hm2019721.ml/clash/proxies
+- type: clash
+  options:
+    url: https://pool-840979.asia1.kinto.io/clash/proxies
+- type: clash
+  options:
+    url: https://6166888.xyz/clash/proxies
